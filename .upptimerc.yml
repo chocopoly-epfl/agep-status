@@ -9,6 +9,8 @@ sites:
     url: https://staff.chocopoly.ch
   - name: Shlink (Go AGEP)
     url: https://go.agepoly.ch
+  - name: Test Wrong domain name
+    url: https://goe.agepoly.ch
 
 status-website:
   baseUrl: /status
