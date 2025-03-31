@@ -7,8 +7,6 @@ sites:
     url: https://chocopoly.ch
   - name: Chocopoly Site Staff
     url: https://staff.chocopoly.ch
-  - name: Shlink (Go AGEP)
-    url: https://go.agepoly.ch
 
 status-website:
   baseUrl: /status
