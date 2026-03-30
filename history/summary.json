@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chocopoly.ch.ico",
     "slug": "chocopoly-public",
     "status": "up",
-    "uptime": "87.91%",
+    "uptime": "87.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "88.24%",
+    "uptimeYear": "88.51%",
     "time": 771,
-    "timeDay": 522,
-    "timeWeek": 687,
-    "timeMonth": 696,
-    "timeYear": 773,
+    "timeDay": 526,
+    "timeWeek": 676,
+    "timeMonth": 691,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2026-03-13": 147,
       "2026-03-12": 18,
@@ -73,8 +73,7 @@
       "2025-04-10": 301,
       "2025-04-09": 62,
       "2025-04-05": 6,
-      "2025-03-31": 497,
-      "2025-03-30": 1440
+      "2025-03-31": 497
     }
   },
   {
@@ -83,18 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staff.chocopoly.ch.ico",
     "slug": "chocopoly-site-staff",
     "status": "down",
-    "uptime": "26.28%",
+    "uptime": "26.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "25.42%",
-    "time": 1314,
-    "timeDay": 1013,
+    "time": 1312,
+    "timeDay": 1014,
     "timeWeek": 1043,
-    "timeMonth": 1156,
-    "timeYear": 1322,
+    "timeMonth": 1152,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2026-03-29": 155,
+      "2026-03-30": 157,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -373,8 +373,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1341,
       "2025-04-05": 6,
-      "2025-03-31": 497,
-      "2025-03-30": 1440
+      "2025-03-31": 497
     }
   }
 ]
