@@ -80,7 +80,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staff.chocopoly.ch.ico",
     "slug": "chocopoly-site-staff",
     "status": "down",
-    "uptime": "25.46%",
+    "uptime": "25.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -91,7 +91,7 @@
     "timeMonth": 1094,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2026-04-10": 118,
+      "2026-04-10": 160,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
